@@ -519,7 +519,7 @@ any security thread or slows down the API performance.
 
 #### 6.1.5. Aggregation queries (collection only)
 The client should be able to run any sort of aggregation queries, as long as it does not pose
-any security thread or slows down the API performance.
+any security threat or slows down the API performance.
 
 #### 6.1.6. Data types !
 The client should know the data types of the attributes of the requested representation of a resource.
